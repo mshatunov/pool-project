@@ -16,6 +16,12 @@ https://github.com/mshatunov/pool-api-instructor
 pool instructor management
 - spring boot reactive crud microservice over mongo db
 
+### Schedule api
+https://github.com/mshatunov/pool-api-schedule    
+pool schedule management
+- spring boot 2 microservice
+- mongo persistence
+
 ## Infrastructure
 
 ### Kubernetes deployment of whole project
