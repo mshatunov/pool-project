@@ -14,13 +14,19 @@ customers management
 ### Instructor api
 https://github.com/mshatunov/pool-api-instructor    
 pool instructor management
-- spring boot reactive crud microservice over mongo db
+- spring boot reactive microservice 
+- reactive mongo db
 
 ### Schedule api
 https://github.com/mshatunov/pool-api-schedule    
 pool schedule management
 - spring boot 2 microservice
 - mongo persistence
+- feign
+
+## Testing
+- junit 5
+- mockito
 
 ## Infrastructure
 
